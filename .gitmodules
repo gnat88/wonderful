@@ -1,0 +1,3 @@
+[submodule "vimerl"]
+	path = vimerl
+	url = https://github.com/gnat88/vimerl.git
